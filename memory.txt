@@ -1,0 +1,9 @@
+Hello:Hey!
+
+Hey!:Hello!
+
+Hey:Hello my friend
+
+Leo:En hora
+thanks:You're welcome
+Thanks:You're welcome
